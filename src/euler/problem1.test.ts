@@ -1,4 +1,4 @@
-import { sumMultiples } from "./problem1";
+import { sumMultiples } from './problem1';
 
 describe('#sumMultiples', () => {
   it('returns the correct sum of multiples below 10', () => {

@@ -4,6 +4,8 @@
   "description": "Questions to practice with",
   "license": "MIT",
   "scripts": {
+    "eslint": "eslint .",
+    "prettier": "prettier --check .",
     "test": "jest"
   },
   "author": "smoak",
@@ -16,6 +18,7 @@
     "@typescript-eslint/parser": "^4.15.1",
     "eslint": "^7.20.0",
     "eslint-config-prettier": "^8.0.0",
+    "eslint-plugin-prettier": "^3.3.1",
     "jest": "^26.6.3",
     "prettier": "^2.2.1",
     "ts-jest": "^26.5.1"

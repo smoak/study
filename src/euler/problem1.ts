@@ -8,4 +8,4 @@ export const sumMultiples = (below: number) => {
   }
 
   return sum;
-}
+};
