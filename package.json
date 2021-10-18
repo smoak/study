@@ -6,7 +6,8 @@
   "scripts": {
     "eslint": "eslint .",
     "prettier": "prettier --check .",
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch"
   },
   "author": "smoak",
   "dependencies": {
